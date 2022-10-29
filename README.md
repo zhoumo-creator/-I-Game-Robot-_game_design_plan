@@ -1,4 +1,4 @@
 # -I-Game-Robot-_game_design_plan
 This is a world where doomsday has been predicted. At the same time, a new type of high-effect city based on modularization has appeared, where all the spaces, including personal living spaces and vehicles as "moving spaces", can be freely customized.
 
-and game feature design Collaborators：https://github.com/HopeLightning/I-Game-Robot-Game-Feature-Design
+and the collaborator of game feature design：https://github.com/HopeLightning/I-Game-Robot-Game-Feature-Design
